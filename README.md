@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sonal</h1>
-<h3 align="center">A passionate DevOps developer from India</h3>
+<h3 align="center"> I’m a software engineer with a knack for solving problems through code. I love the challenge of turning complex ideas into working solutions that make life easier.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sonaltripathi21&label=Profile%20views&color=0e75b6&style=flat" alt="sonaltripathi21" /> </p>
 
