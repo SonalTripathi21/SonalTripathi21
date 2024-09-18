@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Sonal</h1>
-<h3 align="center">A passionate DevOps developer from India</h3>
+<h1 align="left">Hi 👋, I'm Sonal</h1>
+<h3 align="left"> I’m a software engineer with a knack for solving problems through code. My journey into tech has been shaped by a mix of experiences, from web development to AI and machine learning. I love the challenge of turning complex ideas into working solutions that make life easier. <br> In my free time, I enjoy working on open-source projects and learning new technologies to keep pushing my skills forward. Always happy to connect, collaborate, and contribute to interesting projects!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sonaltripathi21&label=Profile%20views&color=0e75b6&style=flat" alt="sonaltripathi21" /> </p>
 
